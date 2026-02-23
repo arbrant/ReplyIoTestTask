@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="BusinessLogic/BusinessLogic.csproj" />
+  <Project Path="ContactManagementAPI/ContactManagementAPI.csproj" />
+  <Project Path="DataAccess/DataAccess.csproj" />
 </Solution>
